@@ -1,5 +1,0 @@
-interface Reserva {
-
-    void reservarQuarto();
-
-}

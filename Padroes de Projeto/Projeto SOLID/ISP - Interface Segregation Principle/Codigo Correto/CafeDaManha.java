@@ -1,5 +1,0 @@
-interface CafeDaManha {
-
-    void servirCafeDaManha();
-
-}
